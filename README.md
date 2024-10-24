@@ -1,15 +1,14 @@
 ## Blog Website 📝📌
-### Project By [Hitik Saini](https://hitiksaini.com/)
+### Project By [OULAKBIR Ilham](https://Oulakbir.com/)
 A node.js coded website for your personal/community blog. This is just a prototype for a sample Blog Website you will need to re-design as per your choice.
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/hitiksaini/Blog-Website/issues)
 
 ### Prerequisite
 Install latest version of nodejs & mongoDB(database) into your PC for this to work. I have explained the installation process below refer to it and when you're done:
 
 You now just need to open terminal and write these commands:
 
-* ### `git clone https://github.com/hitiksaini/Blog-Website.git `
+* ### `git clone https://github.com/Oulakbir/MyBlog.git `
 * navigate to where you downloaded the repository and install all the requirements- `npm install` 
 * ### `node app.js` 
 If all goes well and you configure all the required modules correctly, this will run the whole node.js coded project and you will see the blog website on your local servers(https://localhost:3000/)
